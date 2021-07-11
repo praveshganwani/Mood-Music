@@ -1,0 +1,24 @@
+.card {
+    background-color: #181818;
+    transition: 0.5s;
+}
+
+.card:hover {
+    background-color: #5a5a5a;
+}
+
+.text-muted {
+    color: #acacac !important;
+}
+
+.card:hover .text-muted {
+    color: #ffffff !important;
+}
+
+.links {
+    color: #1db954;
+}
+
+.links:hover {
+    color: #1db954;
+}

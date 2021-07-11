@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+
+* {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-color: #1e1e1e;
+}
+
+.lead {
+    color: #acacac;
+}
+
+.btn {
+    background-color: #1db954;
+    border-color: #1db954;
+}
