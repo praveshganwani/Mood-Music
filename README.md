@@ -1,4 +1,4 @@
-# Mood-Music
+# Mood-Music !
 
 - This application will take the user’s image from the web camera as an input and detect emotions using Microsoft Cognitive Services Face API and based on the strongest emotion it will design a Spotify Playlist for the user using Spotify API. Therefore, the user can play songs based on his/her current mood.
 - Microsoft API scans faces in images and video for the following emotions: anger, contempt, disgust, fear, happiness, neutral, sadness, and surprise.
